@@ -36,7 +36,7 @@ Here let’s cover the new Alert Simulation.
     - Click **Create sample alerts** button to trigger the alert simulation for Key Vaults.
 9.	Sample alerts creating in progress, wait for the process to complete. You can track the progress by opening the notification center or on activity log (this process usually takes 2 minutes to complete)
 10.	On the alerts page, you should now see 5 different sample events for a resource named `Sample-KV`. Each alert has the `Sample alert` banner next to it.
-11.	Click on the **Access from a TOR exit node to a Key Vault** alert.
+11.	Click any of the sample alerts.
 12.	Click on the **View full details** to see additional information related to the event.
 13.	At the top menu, dismiss the alert by changing the status from Active to **Dismiss**.
 
