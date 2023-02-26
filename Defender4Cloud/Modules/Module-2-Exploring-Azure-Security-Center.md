@@ -55,10 +55,9 @@ In this lab we will use only one but selecting different/additional subscription
 12.	On the **Firewall Manager** tile, you are provided with unified infrastructure and network security management. Azure Firewall Manager is a security management service that provides central security policy and route management for cloud-based security perimeters.
 13. On the **Inventory** tile, you are provided with a view of your security posture across all your inventory, including Defender coverage per resource and whether the monitoring agent is installed (which brinhs security protection to those resources).
 ![Overview: Secure Score tile](../Images/mdfc-inventory.png?raw=true)  
-14.  On the **Information Protection** tile, you can see a list of your resources which have data which has been classified through [Microsoft Purview](https://azure.microsoft.com/en-us/services/purview/). 
-![Overview: Secure Score tile](../Images/mdfc-infpro.png?raw=true)  
 
-15.	On the right pane, you can find the **Insights** section which offers tailored items for your environments: 
+
+14.	On the right pane, you can find the **Insights** section which offers tailored items for your environments: 
 
 - OMI vulnerabilities published
 - Upgrade to New Containers plan
