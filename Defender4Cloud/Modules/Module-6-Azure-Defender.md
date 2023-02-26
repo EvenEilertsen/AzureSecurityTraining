@@ -16,7 +16,7 @@ Here let’s cover the new Alert Simulation.
 2.	Create an alert simulation for VM:
     - On Security alerts page, click on **Sample alerts** button.
     - Select **Azure subscription 1**.
-    - On the Workload Protections plans, keep only **Virtual Machines** selected.
+    - On the Defender for Clouds plans, keep only **Virtual Machines** selected.
     - Click on the **Create sample alerts** button to trigger the alert simulation for VMs.
 
 ![Create sample virtual machine security alerts](../Images/asc-create-sample-security-alerts-vm.gif?raw=true)
