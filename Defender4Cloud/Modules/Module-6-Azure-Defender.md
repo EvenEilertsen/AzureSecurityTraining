@@ -19,7 +19,8 @@ Here let’s cover the new Alert Simulation.
     - On the Workload Protections plans, keep only **Virtual Machines** selected.
     - Click on the **Create sample alerts** button to trigger the alert simulation for VMs.
 
-![Create sample virtual machine security alerts](../Images/asc-create-sample-security-alerts-vm.gif?raw=true)
+![image](https://user-images.githubusercontent.com/107466978/221429666-c5c4d600-e2fe-4345-aff1-2d4396e5d99a.png)
+
 
 3.	Sample alerts creation in progress, wait for the process to complete. You can track the progress by opening the notification center or on activity log (this process usually takes 2 minutes to complete)
 4.	On the alerts page, you should now see 5 different sample events for a resource named `Sample-VM`. Each alert has the Sample alert banner next to it.
